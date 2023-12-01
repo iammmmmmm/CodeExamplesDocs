@@ -1,4 +1,6 @@
+base64
 file
+http
 jna
 jni
 json.Gson
